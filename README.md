@@ -14,7 +14,7 @@ Experiment data for paper 《Meta-Interpretive LEarning with Reuse》
 4. Metagol
      - metagol.pl (from https://github.com/metagol/metagol)
      - scene.pl (background knowledge)
-     - def_prim_pred.pl （definition of primitive predicates）
+     - def_prim_pred.pl （definition of primitive predicates）(**This is a wrong version, the old version has been overwritten, I will correct it as soon as possible**)
      - common_bk.pl 
      - common_aux_bk.pl
      - aux_predicates.pl 
