@@ -1,0 +1,1137 @@
+How may trees are front the closet animal? 
+What direction is the closet creature facing? 
+Are there villagers farthest to the camera than the animal that is facing left? 
+Are there villagers closet to the camera than the animal that is facing behind? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there villagers closet to the camera than the animal that is facing front? 
+Are there pigs farthest to the camera than the animal that is facing front? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there wolves closet to the camera than the animal that is facing left? 
+Are there cows farthest to the camera than the animal that is facing behind? 
+How may trees are behind the closet animal? 
+What direction is the farthest creature facing? 
+Are there wolves closet to the camera than the animal that is facing front? 
+Are there sheep farthest to the camera than the animal that is facing right? 
+How may trees are right the closet animal? 
+What direction is the closet creature facing? 
+Are there sheep farthest to the camera than the animal that is facing left? 
+How may trees are front the farthest animal? 
+What direction is the closet creature facing? 
+Are there villagers farthest to the camera than the animal that is facing left? 
+How may trees are behind the farthest animal? 
+What direction is the closet creature facing? 
+Are there cows farthest to the camera than the animal that is facing behind? 
+Are there cows closet to the camera than the animal that is facing left? 
+How may trees are front the farthest animal? 
+What direction is the farthest creature facing? 
+Are there pigs closet to the camera than the animal that is facing front? 
+Are there pigs closet to the camera than the animal that is facing front? 
+How may trees are front the closet animal? 
+What direction is the farthest creature facing? 
+Are there horses closet to the camera than the animal that is facing left? 
+Are there wolves farthest to the camera than the animal that is facing front? 
+How may trees are front the farthest animal? 
+What direction is the farthest creature facing? 
+Are there pigs farthest to the camera than the animal that is facing behind? 
+Are there villagers farthest to the camera than the animal that is facing left? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there pigs farthest to the camera than the animal that is facing right? 
+Are there villagers closet to the camera than the animal that is facing front? 
+How may trees are front the closet animal? 
+What direction is the farthest creature facing? 
+Are there cows closet to the camera than the animal that is facing behind? 
+How may trees are behind the farthest animal? 
+What direction is the closet creature facing? 
+Are there wolves closet to the camera than the animal that is facing right? 
+Are there horses closet to the camera than the animal that is facing behind? 
+How may trees are front the farthest animal? 
+What direction is the closet creature facing? 
+Are there wolves closet to the camera than the animal that is facing left? 
+How may trees are left the closet animal? 
+What direction is the farthest creature facing? 
+Are there sheep farthest to the camera than the animal that is facing left? 
+Are there wolves closet to the camera than the animal that is facing front? 
+How may trees are left the farthest animal? 
+What direction is the farthest creature facing? 
+Are there chickens closet to the camera than the animal that is facing behind? 
+Are there chickens closet to the camera than the animal that is facing front? 
+How may trees are front the closet animal? 
+What direction is the farthest creature facing? 
+Are there chickens closet to the camera than the animal that is facing left? 
+Are there pigs farthest to the camera than the animal that is facing right? 
+How may trees are left the closet animal? 
+What direction is the farthest creature facing? 
+Are there pigs closet to the camera than the animal that is facing left? 
+Are there chickens closet to the camera than the animal that is facing left? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there horses closet to the camera than the animal that is facing right? 
+Are there horses farthest to the camera than the animal that is facing right? 
+How may trees are behind the closet animal? 
+What direction is the farthest creature facing? 
+Are there wolves closet to the camera than the animal that is facing front? 
+Are there wolves farthest to the camera than the animal that is facing left? 
+How may trees are right the closet animal? 
+What direction is the farthest creature facing? 
+Are there cows farthest to the camera than the animal that is facing left? 
+Are there cows farthest to the camera than the animal that is facing left? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there wolves farthest to the camera than the animal that is facing behind? 
+How may trees are left the closet animal? 
+What direction is the closet creature facing? 
+Are there villagers farthest to the camera than the animal that is facing behind? 
+Are there villagers closet to the camera than the animal that is facing left? 
+How may trees are front the closet animal? 
+What direction is the farthest creature facing? 
+Are there villagers closet to the camera than the animal that is facing behind? 
+How may trees are behind the farthest animal? 
+What direction is the closet creature facing? 
+Are there villagers closet to the camera than the animal that is facing front? 
+Are there wolves closet to the camera than the animal that is facing behind? 
+How may trees are left the farthest animal? 
+What direction is the farthest creature facing? 
+Are there horses closet to the camera than the animal that is facing behind? 
+Are there horses closet to the camera than the animal that is facing left? 
+How may trees are behind the closet animal? 
+What direction is the farthest creature facing? 
+Are there pigs closet to the camera than the animal that is facing right? 
+Are there pigs farthest to the camera than the animal that is facing front? 
+How may trees are right the closet animal? 
+What direction is the closet creature facing? 
+Are there pigs closet to the camera than the animal that is facing behind? 
+Are there pigs closet to the camera than the animal that is facing front? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there horses farthest to the camera than the animal that is facing behind? 
+Are there horses closet to the camera than the animal that is facing right? 
+How may trees are left the closet animal? 
+What direction is the farthest creature facing? 
+Are there cows closet to the camera than the animal that is facing behind? 
+How may trees are left the closet animal? 
+What direction is the farthest creature facing? 
+Are there sheep closet to the camera than the animal that is facing front? 
+Are there horses closet to the camera than the animal that is facing behind? 
+How may trees are front the closet animal? 
+What direction is the closet creature facing? 
+Are there horses closet to the camera than the animal that is facing right? 
+Are there cows farthest to the camera than the animal that is facing right? 
+How may trees are front the farthest animal? 
+What direction is the farthest creature facing? 
+Are there villagers closet to the camera than the animal that is facing behind? 
+Are there chickens farthest to the camera than the animal that is facing front? 
+How may trees are front the farthest animal? 
+What direction is the closet creature facing? 
+Are there cows farthest to the camera than the animal that is facing behind? 
+Are there pigs closet to the camera than the animal that is facing left? 
+How may trees are right the closet animal? 
+What direction is the closet creature facing? 
+Are there wolves closet to the camera than the animal that is facing left? 
+Are there cows farthest to the camera than the animal that is facing left? 
+How may trees are behind the farthest animal? 
+What direction is the closet creature facing? 
+Are there chickens closet to the camera than the animal that is facing behind? 
+Are there chickens closet to the camera than the animal that is facing left? 
+How may trees are right the closet animal? 
+What direction is the farthest creature facing? 
+Are there pigs farthest to the camera than the animal that is facing left? 
+Are there chickens closet to the camera than the animal that is facing behind? 
+How may trees are right the closet animal? 
+What direction is the closet creature facing? 
+Are there pigs closet to the camera than the animal that is facing left? 
+How may trees are front the farthest animal? 
+What direction is the closet creature facing? 
+Are there wolves closet to the camera than the animal that is facing front? 
+Are there wolves closet to the camera than the animal that is facing left? 
+How may trees are front the closet animal? 
+What direction is the closet creature facing? 
+Are there wolves closet to the camera than the animal that is facing front? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there cows closet to the camera than the animal that is facing left? 
+How may trees are behind the closet animal? 
+What direction is the closet creature facing? 
+Are there pigs closet to the camera than the animal that is facing front? 
+Are there pigs closet to the camera than the animal that is facing behind? 
+How may trees are behind the closet animal? 
+What direction is the closet creature facing? 
+Are there cows farthest to the camera than the animal that is facing left? 
+Are there cows farthest to the camera than the animal that is facing front? 
+How may trees are front the closet animal? 
+What direction is the closet creature facing? 
+Are there chickens farthest to the camera than the animal that is facing behind? 
+Are there chickens closet to the camera than the animal that is facing left? 
+How may trees are behind the closet animal? 
+What direction is the closet creature facing? 
+Are there wolves farthest to the camera than the animal that is facing right? 
+Are there wolves farthest to the camera than the animal that is facing behind? 
+How may trees are right the closet animal? 
+What direction is the closet creature facing? 
+Are there pigs farthest to the camera than the animal that is facing right? 
+Are there pigs farthest to the camera than the animal that is facing front? 
+How may trees are front the farthest animal? 
+What direction is the closet creature facing? 
+Are there sheep farthest to the camera than the animal that is facing left? 
+Are there horses closet to the camera than the animal that is facing front? 
+How may trees are left the closet animal? 
+What direction is the closet creature facing? 
+Are there chickens closet to the camera than the animal that is facing behind? 
+Are there sheep closet to the camera than the animal that is facing right? 
+How may trees are left the farthest animal? 
+What direction is the closet creature facing? 
+Are there wolves closet to the camera than the animal that is facing right? 
+Are there wolves closet to the camera than the animal that is facing front? 
+How may trees are left the closet animal? 
+What direction is the closet creature facing? 
+Are there villagers farthest to the camera than the animal that is facing front? 
+Are there chickens closet to the camera than the animal that is facing right? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there sheep farthest to the camera than the animal that is facing front? 
+How may trees are right the closet animal? 
+What direction is the closet creature facing? 
+Are there wolves closet to the camera than the animal that is facing right? 
+How may trees are front the closet animal? 
+What direction is the farthest creature facing? 
+Are there horses farthest to the camera than the animal that is facing front? 
+Are there wolves closet to the camera than the animal that is facing front? 
+How may trees are left the farthest animal? 
+What direction is the closet creature facing? 
+Are there horses farthest to the camera than the animal that is facing right? 
+Are there cows closet to the camera than the animal that is facing left? 
+How may trees are front the farthest animal? 
+What direction is the closet creature facing? 
+Are there horses farthest to the camera than the animal that is facing behind? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there villagers farthest to the camera than the animal that is facing front? 
+Are there sheep farthest to the camera than the animal that is facing front? 
+How may trees are left the closet animal? 
+What direction is the farthest creature facing? 
+Are there cows closet to the camera than the animal that is facing front? 
+Are there wolves closet to the camera than the animal that is facing behind? 
+How may trees are behind the closet animal? 
+What direction is the farthest creature facing? 
+Are there sheep closet to the camera than the animal that is facing front? 
+Are there wolves closet to the camera than the animal that is facing right? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there cows farthest to the camera than the animal that is facing front? 
+Are there cows farthest to the camera than the animal that is facing right? 
+How may trees are front the closet animal? 
+What direction is the closet creature facing? 
+Are there chickens closet to the camera than the animal that is facing behind? 
+Are there cows farthest to the camera than the animal that is facing behind? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there chickens closet to the camera than the animal that is facing right? 
+Are there wolves closet to the camera than the animal that is facing front? 
+How may trees are behind the closet animal? 
+What direction is the closet creature facing? 
+Are there pigs closet to the camera than the animal that is facing right? 
+Are there cows closet to the camera than the animal that is facing front? 
+How may trees are right the farthest animal? 
+What direction is the farthest creature facing? 
+Are there cows farthest to the camera than the animal that is facing left? 
+How may trees are right the closet animal? 
+What direction is the farthest creature facing? 
+Are there chickens farthest to the camera than the animal that is facing behind? 
+Are there sheep closet to the camera than the animal that is facing behind? 
+How may trees are front the closet animal? 
+What direction is the closet creature facing? 
+Are there sheep closet to the camera than the animal that is facing behind? 
+Are there wolves closet to the camera than the animal that is facing right? 
+How may trees are right the closet animal? 
+What direction is the closet creature facing? 
+Are there villagers closet to the camera than the animal that is facing left? 
+Are there chickens farthest to the camera than the animal that is facing front? 
+How may trees are behind the closet animal? 
+What direction is the closet creature facing? 
+Are there wolves closet to the camera than the animal that is facing left? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there villagers farthest to the camera than the animal that is facing right? 
+Are there pigs closet to the camera than the animal that is facing behind? 
+How may trees are left the closet animal? 
+What direction is the closet creature facing? 
+Are there wolves farthest to the camera than the animal that is facing behind? 
+Are there pigs farthest to the camera than the animal that is facing front? 
+How may trees are left the closet animal? 
+What direction is the closet creature facing? 
+Are there wolves closet to the camera than the animal that is facing front? 
+How may trees are left the farthest animal? 
+What direction is the closet creature facing? 
+Are there chickens closet to the camera than the animal that is facing left? 
+Are there cows closet to the camera than the animal that is facing left? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there cows closet to the camera than the animal that is facing left? 
+Are there cows farthest to the camera than the animal that is facing front? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there cows closet to the camera than the animal that is facing front? 
+How may trees are behind the farthest animal? 
+What direction is the closet creature facing? 
+Are there pigs farthest to the camera than the animal that is facing left? 
+Are there pigs closet to the camera than the animal that is facing right? 
+How may trees are left the closet animal? 
+What direction is the farthest creature facing? 
+Are there horses farthest to the camera than the animal that is facing behind? 
+Are there horses farthest to the camera than the animal that is facing behind? 
+How may trees are behind the farthest animal? 
+What direction is the closet creature facing? 
+Are there horses closet to the camera than the animal that is facing front? 
+How may trees are left the farthest animal? 
+What direction is the farthest creature facing? 
+Are there villagers farthest to the camera than the animal that is facing right? 
+Are there villagers closet to the camera than the animal that is facing right? 
+How may trees are left the closet animal? 
+What direction is the farthest creature facing? 
+Are there horses closet to the camera than the animal that is facing behind? 
+How may trees are front the closet animal? 
+What direction is the farthest creature facing? 
+Are there villagers farthest to the camera than the animal that is facing behind? 
+Are there villagers farthest to the camera than the animal that is facing right? 
+How may trees are right the closet animal? 
+What direction is the farthest creature facing? 
+Are there horses closet to the camera than the animal that is facing behind? 
+Are there horses closet to the camera than the animal that is facing right? 
+How may trees are front the farthest animal? 
+What direction is the farthest creature facing? 
+Are there wolves farthest to the camera than the animal that is facing right? 
+Are there wolves farthest to the camera than the animal that is facing right? 
+How may trees are front the closet animal? 
+What direction is the closet creature facing? 
+Are there horses closet to the camera than the animal that is facing right? 
+Are there pigs farthest to the camera than the animal that is facing front? 
+How may trees are behind the closet animal? 
+What direction is the farthest creature facing? 
+Are there horses closet to the camera than the animal that is facing front? 
+Are there horses farthest to the camera than the animal that is facing left? 
+How may trees are front the farthest animal? 
+What direction is the closet creature facing? 
+Are there sheep farthest to the camera than the animal that is facing front? 
+Are there cows closet to the camera than the animal that is facing behind? 
+How may trees are right the farthest animal? 
+What direction is the farthest creature facing? 
+Are there chickens closet to the camera than the animal that is facing right? 
+Are there pigs farthest to the camera than the animal that is facing left? 
+How may trees are behind the closet animal? 
+What direction is the farthest creature facing? 
+Are there sheep farthest to the camera than the animal that is facing behind? 
+Are there horses farthest to the camera than the animal that is facing left? 
+How may trees are right the farthest animal? 
+What direction is the farthest creature facing? 
+Are there horses farthest to the camera than the animal that is facing front? 
+How may trees are right the closet animal? 
+What direction is the closet creature facing? 
+Are there wolves farthest to the camera than the animal that is facing left? 
+Are there wolves closet to the camera than the animal that is facing right? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there sheep closet to the camera than the animal that is facing left? 
+Are there sheep farthest to the camera than the animal that is facing behind? 
+How may trees are right the closet animal? 
+What direction is the closet creature facing? 
+Are there chickens closet to the camera than the animal that is facing behind? 
+Are there horses farthest to the camera than the animal that is facing right? 
+How may trees are left the closet animal? 
+What direction is the farthest creature facing? 
+Are there cows closet to the camera than the animal that is facing behind? 
+Are there cows farthest to the camera than the animal that is facing left? 
+How may trees are behind the farthest animal? 
+What direction is the closet creature facing? 
+Are there wolves closet to the camera than the animal that is facing left? 
+Are there horses closet to the camera than the animal that is facing behind? 
+How may trees are left the farthest animal? 
+What direction is the farthest creature facing? 
+Are there chickens closet to the camera than the animal that is facing right? 
+How may trees are behind the closet animal? 
+What direction is the farthest creature facing? 
+Are there wolves farthest to the camera than the animal that is facing behind? 
+Are there chickens closet to the camera than the animal that is facing behind? 
+How may trees are right the farthest animal? 
+What direction is the farthest creature facing? 
+Are there sheep farthest to the camera than the animal that is facing front? 
+Are there cows closet to the camera than the animal that is facing behind? 
+How may trees are left the farthest animal? 
+What direction is the closet creature facing? 
+Are there villagers closet to the camera than the animal that is facing front? 
+How may trees are behind the farthest animal? 
+What direction is the closet creature facing? 
+Are there villagers farthest to the camera than the animal that is facing right? 
+How may trees are left the farthest animal? 
+What direction is the closet creature facing? 
+Are there sheep farthest to the camera than the animal that is facing behind? 
+Are there pigs farthest to the camera than the animal that is facing right? 
+How may trees are left the farthest animal? 
+What direction is the farthest creature facing? 
+Are there cows closet to the camera than the animal that is facing left? 
+Are there villagers farthest to the camera than the animal that is facing behind? 
+How may trees are front the closet animal? 
+What direction is the closet creature facing? 
+Are there villagers closet to the camera than the animal that is facing behind? 
+Are there pigs closet to the camera than the animal that is facing right? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there sheep farthest to the camera than the animal that is facing left? 
+Are there horses farthest to the camera than the animal that is facing left? 
+How may trees are left the farthest animal? 
+What direction is the closet creature facing? 
+Are there chickens closet to the camera than the animal that is facing behind? 
+Are there chickens closet to the camera than the animal that is facing left? 
+How may trees are behind the closet animal? 
+What direction is the closet creature facing? 
+Are there cows farthest to the camera than the animal that is facing front? 
+Are there cows closet to the camera than the animal that is facing front? 
+How may trees are left the closet animal? 
+What direction is the farthest creature facing? 
+Are there wolves closet to the camera than the animal that is facing front? 
+How may trees are left the closet animal? 
+What direction is the closet creature facing? 
+Are there villagers closet to the camera than the animal that is facing right? 
+Are there pigs farthest to the camera than the animal that is facing right? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there horses closet to the camera than the animal that is facing front? 
+How may trees are front the closet animal? 
+What direction is the closet creature facing? 
+Are there pigs closet to the camera than the animal that is facing left? 
+Are there wolves closet to the camera than the animal that is facing left? 
+How may trees are front the farthest animal? 
+What direction is the farthest creature facing? 
+Are there sheep closet to the camera than the animal that is facing right? 
+Are there wolves closet to the camera than the animal that is facing left? 
+How may trees are right the closet animal? 
+What direction is the closet creature facing? 
+Are there sheep closet to the camera than the animal that is facing behind? 
+Are there sheep closet to the camera than the animal that is facing front? 
+How may trees are left the closet animal? 
+What direction is the farthest creature facing? 
+Are there pigs closet to the camera than the animal that is facing left? 
+Are there horses farthest to the camera than the animal that is facing left? 
+How may trees are right the closet animal? 
+What direction is the closet creature facing? 
+Are there chickens closet to the camera than the animal that is facing left? 
+Are there chickens closet to the camera than the animal that is facing left? 
+How may trees are left the closet animal? 
+What direction is the farthest creature facing? 
+Are there pigs farthest to the camera than the animal that is facing left? 
+Are there cows farthest to the camera than the animal that is facing behind? 
+How may trees are behind the farthest animal? 
+What direction is the closet creature facing? 
+Are there wolves closet to the camera than the animal that is facing front? 
+Are there horses farthest to the camera than the animal that is facing behind? 
+How may trees are behind the closet animal? 
+What direction is the farthest creature facing? 
+Are there pigs farthest to the camera than the animal that is facing behind? 
+Are there pigs farthest to the camera than the animal that is facing front? 
+How may trees are right the farthest animal? 
+What direction is the farthest creature facing? 
+Are there horses farthest to the camera than the animal that is facing front? 
+Are there cows closet to the camera than the animal that is facing left? 
+How may trees are front the closet animal? 
+What direction is the farthest creature facing? 
+Are there sheep closet to the camera than the animal that is facing right? 
+Are there sheep farthest to the camera than the animal that is facing behind? 
+How may trees are left the farthest animal? 
+What direction is the farthest creature facing? 
+Are there villagers farthest to the camera than the animal that is facing left? 
+How may trees are front the farthest animal? 
+What direction is the farthest creature facing? 
+Are there horses closet to the camera than the animal that is facing behind? 
+Are there pigs closet to the camera than the animal that is facing right? 
+How may trees are front the closet animal? 
+What direction is the closet creature facing? 
+Are there pigs farthest to the camera than the animal that is facing right? 
+Are there pigs closet to the camera than the animal that is facing left? 
+How may trees are behind the closet animal? 
+What direction is the closet creature facing? 
+Are there sheep closet to the camera than the animal that is facing right? 
+Are there wolves farthest to the camera than the animal that is facing front? 
+How may trees are left the farthest animal? 
+What direction is the closet creature facing? 
+Are there horses closet to the camera than the animal that is facing behind? 
+Are there sheep closet to the camera than the animal that is facing behind? 
+How may trees are front the farthest animal? 
+What direction is the farthest creature facing? 
+Are there cows closet to the camera than the animal that is facing front? 
+Are there cows closet to the camera than the animal that is facing left? 
+How may trees are right the closet animal? 
+What direction is the farthest creature facing? 
+Are there chickens farthest to the camera than the animal that is facing behind? 
+Are there horses closet to the camera than the animal that is facing front? 
+How may trees are front the closet animal? 
+What direction is the farthest creature facing? 
+Are there wolves closet to the camera than the animal that is facing left? 
+Are there wolves closet to the camera than the animal that is facing front? 
+How may trees are right the farthest animal? 
+What direction is the farthest creature facing? 
+Are there villagers farthest to the camera than the animal that is facing front? 
+Are there wolves farthest to the camera than the animal that is facing behind? 
+How may trees are behind the closet animal? 
+What direction is the farthest creature facing? 
+Are there villagers closet to the camera than the animal that is facing left? 
+Are there villagers farthest to the camera than the animal that is facing left? 
+How may trees are right the closet animal? 
+What direction is the farthest creature facing? 
+Are there sheep closet to the camera than the animal that is facing front? 
+Are there villagers closet to the camera than the animal that is facing left? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there horses farthest to the camera than the animal that is facing behind? 
+Are there villagers farthest to the camera than the animal that is facing behind? 
+How may trees are behind the closet animal? 
+What direction is the closet creature facing? 
+Are there chickens closet to the camera than the animal that is facing behind? 
+Are there cows farthest to the camera than the animal that is facing left? 
+How may trees are left the farthest animal? 
+What direction is the farthest creature facing? 
+Are there wolves closet to the camera than the animal that is facing left? 
+How may trees are right the farthest animal? 
+What direction is the farthest creature facing? 
+Are there pigs farthest to the camera than the animal that is facing front? 
+Are there cows closet to the camera than the animal that is facing left? 
+How may trees are front the closet animal? 
+What direction is the farthest creature facing? 
+Are there wolves closet to the camera than the animal that is facing left? 
+Are there pigs farthest to the camera than the animal that is facing right? 
+How may trees are behind the closet animal? 
+What direction is the farthest creature facing? 
+Are there pigs farthest to the camera than the animal that is facing left? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there horses closet to the camera than the animal that is facing right? 
+Are there chickens farthest to the camera than the animal that is facing right? 
+How may trees are left the closet animal? 
+What direction is the closet creature facing? 
+Are there villagers farthest to the camera than the animal that is facing behind? 
+How may trees are left the farthest animal? 
+What direction is the farthest creature facing? 
+Are there villagers closet to the camera than the animal that is facing left? 
+Are there horses closet to the camera than the animal that is facing right? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there wolves closet to the camera than the animal that is facing right? 
+Are there cows closet to the camera than the animal that is facing right? 
+How may trees are front the farthest animal? 
+What direction is the closet creature facing? 
+Are there chickens farthest to the camera than the animal that is facing right? 
+How may trees are front the farthest animal? 
+What direction is the farthest creature facing? 
+Are there villagers farthest to the camera than the animal that is facing left? 
+How may trees are behind the closet animal? 
+What direction is the closet creature facing? 
+Are there villagers farthest to the camera than the animal that is facing right? 
+Are there villagers farthest to the camera than the animal that is facing behind? 
+How may trees are left the closet animal? 
+What direction is the farthest creature facing? 
+Are there wolves closet to the camera than the animal that is facing behind? 
+Are there chickens farthest to the camera than the animal that is facing front? 
+How may trees are front the farthest animal? 
+What direction is the farthest creature facing? 
+Are there sheep farthest to the camera than the animal that is facing left? 
+Are there sheep closet to the camera than the animal that is facing left? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there wolves farthest to the camera than the animal that is facing left? 
+Are there wolves closet to the camera than the animal that is facing behind? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there sheep farthest to the camera than the animal that is facing front? 
+Are there chickens closet to the camera than the animal that is facing front? 
+How may trees are right the farthest animal? 
+What direction is the farthest creature facing? 
+Are there chickens closet to the camera than the animal that is facing behind? 
+Are there chickens farthest to the camera than the animal that is facing left? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there pigs farthest to the camera than the animal that is facing front? 
+Are there pigs closet to the camera than the animal that is facing behind? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there horses farthest to the camera than the animal that is facing front? 
+How may trees are left the closet animal? 
+What direction is the closet creature facing? 
+Are there horses farthest to the camera than the animal that is facing left? 
+Are there cows closet to the camera than the animal that is facing left? 
+How may trees are left the farthest animal? 
+What direction is the farthest creature facing? 
+Are there sheep closet to the camera than the animal that is facing left? 
+Are there sheep farthest to the camera than the animal that is facing left? 
+How may trees are right the closet animal? 
+What direction is the farthest creature facing? 
+Are there pigs farthest to the camera than the animal that is facing right? 
+Are there pigs closet to the camera than the animal that is facing right? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there pigs closet to the camera than the animal that is facing behind? 
+Are there wolves closet to the camera than the animal that is facing behind? 
+How may trees are right the closet animal? 
+What direction is the farthest creature facing? 
+Are there pigs farthest to the camera than the animal that is facing left? 
+Are there horses farthest to the camera than the animal that is facing front? 
+How may trees are behind the farthest animal? 
+What direction is the closet creature facing? 
+Are there cows farthest to the camera than the animal that is facing front? 
+How may trees are left the closet animal? 
+What direction is the farthest creature facing? 
+Are there pigs farthest to the camera than the animal that is facing right? 
+Are there pigs closet to the camera than the animal that is facing behind? 
+How may trees are left the farthest animal? 
+What direction is the closet creature facing? 
+Are there sheep closet to the camera than the animal that is facing left? 
+Are there horses closet to the camera than the animal that is facing front? 
+How may trees are front the farthest animal? 
+What direction is the closet creature facing? 
+Are there wolves farthest to the camera than the animal that is facing front? 
+Are there horses closet to the camera than the animal that is facing behind? 
+How may trees are right the farthest animal? 
+What direction is the farthest creature facing? 
+Are there sheep closet to the camera than the animal that is facing front? 
+Are there cows farthest to the camera than the animal that is facing front? 
+How may trees are right the closet animal? 
+What direction is the closet creature facing? 
+Are there villagers closet to the camera than the animal that is facing front? 
+How may trees are front the farthest animal? 
+What direction is the closet creature facing? 
+Are there villagers farthest to the camera than the animal that is facing behind? 
+Are there cows closet to the camera than the animal that is facing behind? 
+How may trees are front the farthest animal? 
+What direction is the farthest creature facing? 
+Are there villagers closet to the camera than the animal that is facing front? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there cows farthest to the camera than the animal that is facing front? 
+How may trees are front the farthest animal? 
+What direction is the farthest creature facing? 
+Are there wolves farthest to the camera than the animal that is facing right? 
+Are there wolves farthest to the camera than the animal that is facing behind? 
+How may trees are left the closet animal? 
+What direction is the closet creature facing? 
+Are there pigs farthest to the camera than the animal that is facing front? 
+Are there cows closet to the camera than the animal that is facing left? 
+How may trees are front the farthest animal? 
+What direction is the closet creature facing? 
+Are there horses closet to the camera than the animal that is facing right? 
+Are there chickens farthest to the camera than the animal that is facing front? 
+How may trees are right the farthest animal? 
+What direction is the farthest creature facing? 
+Are there villagers farthest to the camera than the animal that is facing left? 
+Are there wolves closet to the camera than the animal that is facing left? 
+How may trees are front the farthest animal? 
+What direction is the closet creature facing? 
+Are there villagers closet to the camera than the animal that is facing behind? 
+How may trees are left the closet animal? 
+What direction is the closet creature facing? 
+Are there cows farthest to the camera than the animal that is facing behind? 
+Are there chickens farthest to the camera than the animal that is facing front? 
+How may trees are front the farthest animal? 
+What direction is the farthest creature facing? 
+Are there horses farthest to the camera than the animal that is facing behind? 
+Are there wolves farthest to the camera than the animal that is facing behind? 
+How may trees are left the farthest animal? 
+What direction is the closet creature facing? 
+Are there chickens farthest to the camera than the animal that is facing behind? 
+Are there chickens farthest to the camera than the animal that is facing behind? 
+How may trees are front the farthest animal? 
+What direction is the closet creature facing? 
+Are there sheep closet to the camera than the animal that is facing behind? 
+How may trees are front the closet animal? 
+What direction is the farthest creature facing? 
+Are there chickens farthest to the camera than the animal that is facing right? 
+Are there chickens farthest to the camera than the animal that is facing left? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there wolves farthest to the camera than the animal that is facing right? 
+Are there wolves farthest to the camera than the animal that is facing front? 
+How may trees are behind the closet animal? 
+What direction is the farthest creature facing? 
+Are there chickens farthest to the camera than the animal that is facing right? 
+How may trees are behind the closet animal? 
+What direction is the farthest creature facing? 
+Are there wolves closet to the camera than the animal that is facing behind? 
+How may trees are right the closet animal? 
+What direction is the closet creature facing? 
+Are there villagers farthest to the camera than the animal that is facing behind? 
+Are there horses closet to the camera than the animal that is facing right? 
+How may trees are left the closet animal? 
+What direction is the closet creature facing? 
+Are there pigs closet to the camera than the animal that is facing left? 
+Are there villagers farthest to the camera than the animal that is facing front? 
+How may trees are front the closet animal? 
+What direction is the closet creature facing? 
+Are there sheep closet to the camera than the animal that is facing behind? 
+Are there chickens farthest to the camera than the animal that is facing right? 
+How may trees are front the farthest animal? 
+What direction is the closet creature facing? 
+Are there chickens closet to the camera than the animal that is facing behind? 
+How may trees are right the closet animal? 
+What direction is the closet creature facing? 
+Are there cows farthest to the camera than the animal that is facing left? 
+Are there cows closet to the camera than the animal that is facing right? 
+How may trees are left the closet animal? 
+What direction is the closet creature facing? 
+Are there horses farthest to the camera than the animal that is facing behind? 
+Are there wolves closet to the camera than the animal that is facing right? 
+How may trees are left the closet animal? 
+What direction is the closet creature facing? 
+Are there wolves closet to the camera than the animal that is facing front? 
+Are there chickens farthest to the camera than the animal that is facing right? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there sheep farthest to the camera than the animal that is facing front? 
+Are there villagers farthest to the camera than the animal that is facing behind? 
+How may trees are right the closet animal? 
+What direction is the farthest creature facing? 
+Are there chickens farthest to the camera than the animal that is facing left? 
+Are there chickens farthest to the camera than the animal that is facing left? 
+How may trees are front the closet animal? 
+What direction is the farthest creature facing? 
+Are there pigs farthest to the camera than the animal that is facing right? 
+Are there villagers closet to the camera than the animal that is facing left? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there pigs farthest to the camera than the animal that is facing front? 
+Are there sheep closet to the camera than the animal that is facing right? 
+How may trees are front the closet animal? 
+What direction is the farthest creature facing? 
+Are there wolves farthest to the camera than the animal that is facing left? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there horses closet to the camera than the animal that is facing behind? 
+Are there horses closet to the camera than the animal that is facing left? 
+How may trees are behind the farthest animal? 
+What direction is the closet creature facing? 
+Are there sheep closet to the camera than the animal that is facing left? 
+Are there sheep farthest to the camera than the animal that is facing behind? 
+How may trees are behind the closet animal? 
+What direction is the farthest creature facing? 
+Are there villagers farthest to the camera than the animal that is facing front? 
+Are there cows farthest to the camera than the animal that is facing left? 
+How may trees are behind the closet animal? 
+What direction is the closet creature facing? 
+Are there sheep farthest to the camera than the animal that is facing left? 
+Are there villagers closet to the camera than the animal that is facing behind? 
+How may trees are right the farthest animal? 
+What direction is the farthest creature facing? 
+Are there wolves closet to the camera than the animal that is facing right? 
+Are there wolves farthest to the camera than the animal that is facing front? 
+How may trees are front the farthest animal? 
+What direction is the closet creature facing? 
+Are there horses closet to the camera than the animal that is facing front? 
+Are there horses closet to the camera than the animal that is facing front? 
+How may trees are front the closet animal? 
+What direction is the closet creature facing? 
+Are there wolves farthest to the camera than the animal that is facing right? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there horses closet to the camera than the animal that is facing front? 
+Are there chickens closet to the camera than the animal that is facing behind? 
+How may trees are behind the closet animal? 
+What direction is the farthest creature facing? 
+Are there cows closet to the camera than the animal that is facing right? 
+Are there chickens closet to the camera than the animal that is facing left? 
+How may trees are behind the closet animal? 
+What direction is the closet creature facing? 
+Are there sheep closet to the camera than the animal that is facing left? 
+Are there villagers farthest to the camera than the animal that is facing right? 
+How may trees are behind the closet animal? 
+What direction is the closet creature facing? 
+Are there villagers farthest to the camera than the animal that is facing left? 
+Are there wolves farthest to the camera than the animal that is facing left? 
+How may trees are left the closet animal? 
+What direction is the farthest creature facing? 
+Are there horses farthest to the camera than the animal that is facing front? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there chickens farthest to the camera than the animal that is facing right? 
+Are there chickens closet to the camera than the animal that is facing behind? 
+How may trees are left the closet animal? 
+What direction is the closet creature facing? 
+Are there villagers farthest to the camera than the animal that is facing right? 
+Are there cows closet to the camera than the animal that is facing behind? 
+How may trees are right the closet animal? 
+What direction is the closet creature facing? 
+Are there wolves closet to the camera than the animal that is facing right? 
+Are there wolves closet to the camera than the animal that is facing behind? 
+How may trees are behind the farthest animal? 
+What direction is the closet creature facing? 
+Are there chickens closet to the camera than the animal that is facing right? 
+Are there villagers farthest to the camera than the animal that is facing behind? 
+How may trees are left the farthest animal? 
+What direction is the closet creature facing? 
+Are there horses farthest to the camera than the animal that is facing right? 
+How may trees are front the closet animal? 
+What direction is the closet creature facing? 
+Are there wolves farthest to the camera than the animal that is facing front? 
+Are there wolves closet to the camera than the animal that is facing left? 
+How may trees are behind the farthest animal? 
+What direction is the closet creature facing? 
+Are there sheep closet to the camera than the animal that is facing right? 
+Are there villagers farthest to the camera than the animal that is facing front? 
+How may trees are front the closet animal? 
+What direction is the closet creature facing? 
+Are there pigs farthest to the camera than the animal that is facing right? 
+Are there villagers farthest to the camera than the animal that is facing left? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there wolves closet to the camera than the animal that is facing front? 
+Are there chickens closet to the camera than the animal that is facing front? 
+How may trees are behind the farthest animal? 
+What direction is the closet creature facing? 
+Are there horses farthest to the camera than the animal that is facing front? 
+Are there cows farthest to the camera than the animal that is facing behind? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there villagers closet to the camera than the animal that is facing left? 
+Are there pigs closet to the camera than the animal that is facing behind? 
+How may trees are left the farthest animal? 
+What direction is the farthest creature facing? 
+Are there pigs closet to the camera than the animal that is facing left? 
+Are there pigs farthest to the camera than the animal that is facing right? 
+How may trees are front the closet animal? 
+What direction is the farthest creature facing? 
+Are there sheep closet to the camera than the animal that is facing right? 
+How may trees are right the farthest animal? 
+What direction is the farthest creature facing? 
+Are there wolves farthest to the camera than the animal that is facing behind? 
+Are there wolves farthest to the camera than the animal that is facing front? 
+How may trees are front the closet animal? 
+What direction is the closet creature facing? 
+Are there sheep farthest to the camera than the animal that is facing right? 
+How may trees are left the farthest animal? 
+What direction is the farthest creature facing? 
+Are there wolves farthest to the camera than the animal that is facing left? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there chickens closet to the camera than the animal that is facing front? 
+Are there villagers closet to the camera than the animal that is facing front? 
+How may trees are front the closet animal? 
+What direction is the farthest creature facing? 
+Are there villagers farthest to the camera than the animal that is facing front? 
+Are there wolves farthest to the camera than the animal that is facing front? 
+How may trees are front the closet animal? 
+What direction is the closet creature facing? 
+Are there cows closet to the camera than the animal that is facing left? 
+Are there horses farthest to the camera than the animal that is facing right? 
+How may trees are behind the farthest animal? 
+What direction is the closet creature facing? 
+Are there chickens closet to the camera than the animal that is facing behind? 
+Are there cows closet to the camera than the animal that is facing front? 
+How may trees are left the farthest animal? 
+What direction is the closet creature facing? 
+Are there cows closet to the camera than the animal that is facing right? 
+Are there pigs closet to the camera than the animal that is facing behind? 
+How may trees are left the closet animal? 
+What direction is the closet creature facing? 
+Are there cows farthest to the camera than the animal that is facing front? 
+Are there cows closet to the camera than the animal that is facing behind? 
+How may trees are front the closet animal? 
+What direction is the closet creature facing? 
+Are there wolves farthest to the camera than the animal that is facing behind? 
+Are there wolves closet to the camera than the animal that is facing right? 
+How may trees are behind the closet animal? 
+What direction is the closet creature facing? 
+Are there cows farthest to the camera than the animal that is facing left? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there wolves closet to the camera than the animal that is facing front? 
+Are there horses closet to the camera than the animal that is facing front? 
+How may trees are right the farthest animal? 
+What direction is the farthest creature facing? 
+Are there pigs farthest to the camera than the animal that is facing behind? 
+How may trees are behind the farthest animal? 
+What direction is the closet creature facing? 
+Are there chickens closet to the camera than the animal that is facing behind? 
+How may trees are left the farthest animal? 
+What direction is the farthest creature facing? 
+Are there chickens closet to the camera than the animal that is facing behind? 
+Are there wolves closet to the camera than the animal that is facing right? 
+How may trees are right the closet animal? 
+What direction is the closet creature facing? 
+Are there cows closet to the camera than the animal that is facing right? 
+Are there cows farthest to the camera than the animal that is facing front? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there sheep farthest to the camera than the animal that is facing left? 
+Are there wolves farthest to the camera than the animal that is facing right? 
+How may trees are behind the closet animal? 
+What direction is the closet creature facing? 
+Are there sheep farthest to the camera than the animal that is facing behind? 
+Are there villagers farthest to the camera than the animal that is facing right? 
+How may trees are right the farthest animal? 
+What direction is the farthest creature facing? 
+Are there cows farthest to the camera than the animal that is facing behind? 
+Are there sheep farthest to the camera than the animal that is facing left? 
+How may trees are left the closet animal? 
+What direction is the farthest creature facing? 
+Are there wolves closet to the camera than the animal that is facing left? 
+How may trees are front the farthest animal? 
+What direction is the farthest creature facing? 
+Are there cows farthest to the camera than the animal that is facing front? 
+Are there pigs closet to the camera than the animal that is facing right? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there chickens closet to the camera than the animal that is facing front? 
+Are there chickens closet to the camera than the animal that is facing front? 
+How may trees are behind the closet animal? 
+What direction is the farthest creature facing? 
+Are there villagers farthest to the camera than the animal that is facing right? 
+Are there pigs closet to the camera than the animal that is facing front? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there villagers closet to the camera than the animal that is facing right? 
+Are there cows farthest to the camera than the animal that is facing front? 
+How may trees are right the farthest animal? 
+What direction is the farthest creature facing? 
+Are there wolves closet to the camera than the animal that is facing behind? 
+Are there pigs farthest to the camera than the animal that is facing front? 
+How may trees are right the closet animal? 
+What direction is the farthest creature facing? 
+Are there villagers closet to the camera than the animal that is facing behind? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there pigs closet to the camera than the animal that is facing behind? 
+Are there pigs closet to the camera than the animal that is facing front? 
+How may trees are left the farthest animal? 
+What direction is the farthest creature facing? 
+Are there sheep farthest to the camera than the animal that is facing right? 
+Are there sheep closet to the camera than the animal that is facing behind? 
+How may trees are front the farthest animal? 
+What direction is the closet creature facing? 
+Are there wolves closet to the camera than the animal that is facing behind? 
+How may trees are behind the closet animal? 
+What direction is the farthest creature facing? 
+Are there villagers closet to the camera than the animal that is facing behind? 
+Are there pigs farthest to the camera than the animal that is facing front? 
+How may trees are right the closet animal? 
+What direction is the closet creature facing? 
+Are there horses closet to the camera than the animal that is facing behind? 
+Are there cows closet to the camera than the animal that is facing behind? 
+How may trees are left the closet animal? 
+What direction is the farthest creature facing? 
+Are there cows farthest to the camera than the animal that is facing behind? 
+Are there wolves closet to the camera than the animal that is facing behind? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there wolves closet to the camera than the animal that is facing right? 
+Are there wolves closet to the camera than the animal that is facing front? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there wolves farthest to the camera than the animal that is facing right? 
+Are there horses closet to the camera than the animal that is facing front? 
+How may trees are left the farthest animal? 
+What direction is the closet creature facing? 
+Are there wolves farthest to the camera than the animal that is facing behind? 
+Are there villagers farthest to the camera than the animal that is facing left? 
+How may trees are right the closet animal? 
+What direction is the farthest creature facing? 
+Are there cows closet to the camera than the animal that is facing right? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there pigs closet to the camera than the animal that is facing behind? 
+Are there wolves closet to the camera than the animal that is facing left? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there wolves farthest to the camera than the animal that is facing right? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there cows closet to the camera than the animal that is facing front? 
+Are there horses farthest to the camera than the animal that is facing behind? 
+How may trees are left the closet animal? 
+What direction is the farthest creature facing? 
+Are there sheep farthest to the camera than the animal that is facing behind? 
+Are there pigs closet to the camera than the animal that is facing behind? 
+How may trees are front the closet animal? 
+What direction is the farthest creature facing? 
+Are there chickens closet to the camera than the animal that is facing behind? 
+Are there horses farthest to the camera than the animal that is facing front? 
+How may trees are behind the closet animal? 
+What direction is the farthest creature facing? 
+Are there sheep closet to the camera than the animal that is facing front? 
+Are there villagers closet to the camera than the animal that is facing front? 
+How may trees are behind the closet animal? 
+What direction is the farthest creature facing? 
+Are there pigs closet to the camera than the animal that is facing front? 
+Are there pigs closet to the camera than the animal that is facing front? 
+How may trees are left the closet animal? 
+What direction is the closet creature facing? 
+Are there villagers farthest to the camera than the animal that is facing front? 
+Are there pigs farthest to the camera than the animal that is facing front? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there pigs farthest to the camera than the animal that is facing behind? 
+Are there sheep closet to the camera than the animal that is facing behind? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there pigs closet to the camera than the animal that is facing behind? 
+Are there pigs farthest to the camera than the animal that is facing behind? 
+How may trees are behind the closet animal? 
+What direction is the closet creature facing? 
+Are there pigs farthest to the camera than the animal that is facing behind? 
+Are there wolves closet to the camera than the animal that is facing behind? 
+How may trees are behind the closet animal? 
+What direction is the closet creature facing? 
+Are there horses farthest to the camera than the animal that is facing right? 
+Are there horses closet to the camera than the animal that is facing right? 
+How may trees are left the farthest animal? 
+What direction is the closet creature facing? 
+Are there pigs farthest to the camera than the animal that is facing front? 
+Are there chickens closet to the camera than the animal that is facing right? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there sheep closet to the camera than the animal that is facing behind? 
+Are there pigs closet to the camera than the animal that is facing behind? 
+How may trees are right the farthest animal? 
+What direction is the farthest creature facing? 
+Are there pigs closet to the camera than the animal that is facing right? 
+Are there sheep farthest to the camera than the animal that is facing behind? 
+How may trees are right the closet animal? 
+What direction is the farthest creature facing? 
+Are there sheep closet to the camera than the animal that is facing behind? 
+Are there sheep farthest to the camera than the animal that is facing front? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there cows farthest to the camera than the animal that is facing front? 
+Are there pigs closet to the camera than the animal that is facing front? 
+How may trees are left the farthest animal? 
+What direction is the farthest creature facing? 
+Are there pigs farthest to the camera than the animal that is facing front? 
+Are there horses farthest to the camera than the animal that is facing behind? 
+How may trees are right the farthest animal? 
+What direction is the farthest creature facing? 
+Are there pigs farthest to the camera than the animal that is facing front? 
+Are there chickens closet to the camera than the animal that is facing left? 
+How may trees are left the farthest animal? 
+What direction is the closet creature facing? 
+Are there pigs farthest to the camera than the animal that is facing front? 
+Are there cows closet to the camera than the animal that is facing left? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there pigs closet to the camera than the animal that is facing left? 
+Are there cows closet to the camera than the animal that is facing front? 
+How may trees are behind the farthest animal? 
+What direction is the closet creature facing? 
+Are there chickens closet to the camera than the animal that is facing front? 
+Are there cows farthest to the camera than the animal that is facing behind? 
+How may trees are right the farthest animal? 
+What direction is the farthest creature facing? 
+Are there sheep farthest to the camera than the animal that is facing front? 
+Are there sheep farthest to the camera than the animal that is facing behind? 
+How may trees are front the farthest animal? 
+What direction is the farthest creature facing? 
+Are there chickens closet to the camera than the animal that is facing front? 
+Are there horses farthest to the camera than the animal that is facing behind? 
+How may trees are right the farthest animal? 
+What direction is the farthest creature facing? 
+Are there pigs closet to the camera than the animal that is facing left? 
+Are there cows farthest to the camera than the animal that is facing front? 
+How may trees are behind the closet animal? 
+What direction is the farthest creature facing? 
+Are there sheep farthest to the camera than the animal that is facing front? 
+Are there horses closet to the camera than the animal that is facing right? 
+How may trees are left the closet animal? 
+What direction is the closet creature facing? 
+Are there chickens closet to the camera than the animal that is facing front? 
+Are there chickens farthest to the camera than the animal that is facing behind? 
+How may trees are front the closet animal? 
+What direction is the closet creature facing? 
+Are there cows closet to the camera than the animal that is facing front? 
+Are there sheep closet to the camera than the animal that is facing front? 
+How may trees are right the closet animal? 
+What direction is the farthest creature facing? 
+Are there sheep closet to the camera than the animal that is facing left? 
+Are there villagers farthest to the camera than the animal that is facing front? 
+How may trees are left the farthest animal? 
+What direction is the closet creature facing? 
+Are there horses farthest to the camera than the animal that is facing right? 
+Are there villagers farthest to the camera than the animal that is facing left? 
+How may trees are left the farthest animal? 
+What direction is the closet creature facing? 
+Are there horses closet to the camera than the animal that is facing behind? 
+Are there horses closet to the camera than the animal that is facing behind? 
+How may trees are right the closet animal? 
+What direction is the closet creature facing? 
+How may trees are left the closet animal? 
+What direction is the farthest creature facing? 
+Are there chickens farthest to the camera than the animal that is facing left? 
+Are there chickens farthest to the camera than the animal that is facing front? 
+How may trees are right the closet animal? 
+What direction is the closet creature facing? 
+Are there cows closet to the camera than the animal that is facing front? 
+Are there horses closet to the camera than the animal that is facing right? 
+How may trees are right the closet animal? 
+What direction is the closet creature facing? 
+Are there horses closet to the camera than the animal that is facing behind? 
+How may trees are front the farthest animal? 
+What direction is the farthest creature facing? 
+Are there sheep farthest to the camera than the animal that is facing right? 
+Are there chickens closet to the camera than the animal that is facing front? 
+How may trees are right the closet animal? 
+What direction is the closet creature facing? 
+Are there pigs farthest to the camera than the animal that is facing left? 
+Are there chickens closet to the camera than the animal that is facing front? 
+How may trees are behind the farthest animal? 
+What direction is the closet creature facing? 
+Are there sheep farthest to the camera than the animal that is facing front? 
+How may trees are behind the closet animal? 
+What direction is the closet creature facing? 
+Are there wolves closet to the camera than the animal that is facing front? 
+Are there villagers closet to the camera than the animal that is facing front? 
+How may trees are right the closet animal? 
+What direction is the farthest creature facing? 
+Are there cows farthest to the camera than the animal that is facing left? 
+Are there cows closet to the camera than the animal that is facing left? 
+How may trees are front the closet animal? 
+What direction is the closet creature facing? 
+Are there chickens farthest to the camera than the animal that is facing behind? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there villagers farthest to the camera than the animal that is facing left? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there cows closet to the camera than the animal that is facing front? 
+Are there chickens closet to the camera than the animal that is facing right? 
+How may trees are behind the farthest animal? 
+What direction is the farthest creature facing? 
+Are there chickens farthest to the camera than the animal that is facing front? 
+Are there sheep farthest to the camera than the animal that is facing right? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there villagers farthest to the camera than the animal that is facing front? 
+Are there sheep farthest to the camera than the animal that is facing left? 
+How may trees are right the farthest animal? 
+What direction is the closet creature facing? 
+Are there sheep farthest to the camera than the animal that is facing front? 
+How may trees are behind the closet animal? 
+What direction is the closet creature facing? 
+Are there horses closet to the camera than the animal that is facing left? 
+Are there villagers closet to the camera than the animal that is facing right? 
+How may trees are behind the closet animal? 
+What direction is the closet creature facing? 
+Are there wolves closet to the camera than the animal that is facing behind? 
+Are there villagers farthest to the camera than the animal that is facing right? 
+How may trees are right the closet animal? 
+What direction is the closet creature facing? 
+Are there sheep closet to the camera than the animal that is facing right? 
+Are there villagers closet to the camera than the animal that is facing left? 
+How may trees are behind the closet animal? 
+What direction is the farthest creature facing? 
+Are there pigs farthest to the camera than the animal that is facing right? 
+Are there chickens closet to the camera than the animal that is facing behind? 
+How may trees are right the closet animal? 
+What direction is the closet creature facing? 
+Are there horses closet to the camera than the animal that is facing right? 
+Are there wolves farthest to the camera than the animal that is facing right? 
+How may trees are behind the farthest animal? 
+What direction is the closet creature facing? 
+Are there pigs farthest to the camera than the animal that is facing right? 
+Are there horses farthest to the camera than the animal that is facing left? 
+How may trees are front the closet animal? 
+What direction is the closet creature facing? 
+Are there chickens farthest to the camera than the animal that is facing front? 
+Are there horses farthest to the camera than the animal that is facing right? 
