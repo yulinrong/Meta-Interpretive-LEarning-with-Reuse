@@ -16,6 +16,7 @@ Experiment data for paper 《Meta-Interpretive LEarning with Reuse》
      - scene.pl (background knowledge)
      - def_prim_pred.pl （definition of primitive predicates）
      - common_bk.pl 
-     - common_aux_bk.pl 
-     - vqa.pl (mil learner)
+     - common_aux_bk.pl
+     - aux_predicates.pl 
+     - mil.pl (mil learner)
 5. subgraph.ipynb (Mining frequent subgraphs)
